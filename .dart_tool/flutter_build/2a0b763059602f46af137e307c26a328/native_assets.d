@@ -1,0 +1,1 @@
+ D:\\UPC\\Moviles\\2024-2\\Semana10_2_lunes\\.dart_tool\\flutter_build\\2a0b763059602f46af137e307c26a328\\native_assets.yaml: 
